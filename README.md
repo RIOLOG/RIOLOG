@@ -3,17 +3,13 @@
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=shashwat292001&label=Views&color=blue&style=plastic" alt="shashwat292001" /> </p>
 
 
-<a href="https://www.linkedin.com/in/shashwat-dubey-07655a1a7">
-  <img align="centre" alt="Shashwat's Linkdein" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <a href="https://github.com/shashwat292001">
   <img align="centre" alt="Shashwat's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/akashashwat/">
+<a href=https://instagram.com/rishu__2701?utm_medium>
   <img align="centre" alt="Shashwat's Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a>
-<a href="https://www.facebook.com/shashwat.dubey.902">
-  <img align="centre" alt="Shashwat's Facebook" width="22px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19754.png" />
 </a>
 <br/>
 
