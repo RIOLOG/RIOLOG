@@ -4,11 +4,11 @@
 
 
 </a>
-<a href="https://github.com/shashwat292001">
-  <img align="centre" alt="Shashwat's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/RIOLOG">
+  <img align="centre" alt="Ankit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href=https://instagram.com/rishu__2701?utm_medium>
-  <img align="centre" alt="Shashwat's Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
+  <img align="centre" alt="Ankit's Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a>
 </a>
 <br/>
