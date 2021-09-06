@@ -14,16 +14,6 @@
 <br/>
 
 
-- 🌱 I’m currently learning more about Machine Learning and web development.
-- 💬 Ask me about Web development or any tech related stuff.
-- 📫 How to reach me:  [WhatsApp - Shashwat Dubey](https://wa.me/9454829687)
-- ⚡ Fun fact: I spend almost 12 hours surfing the internet.
-- 💻 Web developer [MIB Technologies](https://mibtechnologies.in) - App and Website Development Company 
-
-[![Linkedin: Pratham Wanmode](https://img.shields.io/badge/-shashwat292001-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shashwat-dubey-07655a1a7/)](https://www.linkedin.com/in/shashwat-dubey-07655a1a7/)
-[![GitHub shashwat292001](https://img.shields.io/github/followers/pratham292001?label=follow&style=social)](https://github.com/pratham292001)
-
-
 
 
 *Languages and Tools:*  
