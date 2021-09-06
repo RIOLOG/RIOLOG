@@ -38,11 +38,7 @@
 
 
 
-<a href="https://github.com/shashwat292001">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat292001&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/shashwat292001">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat292001&show_icons=true&theme=light&line_height=27" alt="Shashwat's Github stats"/>
+<a>
 </a>
 
 
