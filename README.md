@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RIOLOG](https://github.com/RIOLOG)
 
-- 📝 I write blog on https://medium.com/@rishu__2701)
+- 📝 I write blog on https://medium.com/@rishu__2701
 
 - 📫 How to reach me **heelriolog@gmail.com**
 
